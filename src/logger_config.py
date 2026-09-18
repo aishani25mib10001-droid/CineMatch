@@ -1,13 +1,3 @@
-"""
-logger_config.py
------------------
-Provides a single shared logger for the whole application.
-Every module that wants to log something calls get_logger(__name__)
-instead of configuring logging itself. This satisfies the
-Logging / Monitoring non-functional requirement and keeps log
-formatting consistent across the codebase.
-"""
-
 import logging
 from src.config import LOG_PATH
 
