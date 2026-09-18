@@ -60,10 +60,10 @@ cinematch/
 ├── tests/
 │   └── test_recommender.py     # Unit tests (pytest)
 └── docs/
-    ├── architecture_diagram.png
-    ├── workflow_diagram.png
-    ├── class_diagram.png
-    └── make_diagrams.py         # Script that generated the diagrams above
+    ├── architecture_diagram.jpg
+    ├── workflow_diagram.jpg
+    ├── class_diagram.jpg
+    └── sequence_diagram.jpg       
 ```
 
 ## Steps to Install & Run
