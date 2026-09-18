@@ -1,15 +1,3 @@
-"""
-preprocessor.py
-----------------
-Functional Module 1: Data Ingestion & Preprocessing (part B)
-
-Turns the raw text columns (genres + overview) into a single
-"content soup" per movie, then vectorizes that text with TF-IDF.
-This produces the numeric feature matrix that the ML core
-(recommender.py) needs -- this is where "AI/ML" actually enters
-the pipeline.
-"""
-
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 
