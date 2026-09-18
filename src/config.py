@@ -1,12 +1,3 @@
-"""
-config.py
-----------
-Central configuration for CineMatch. Keeping paths and tunable
-parameters in one place satisfies the Maintainability non-functional
-requirement -- nothing below needs to be hunted down inside logic files
-if the dataset location or recommendation size changes.
-"""
-
 import os
 
 # Base directory of the whole project (one level above src/)
