@@ -112,15 +112,19 @@ and the analytics module — 9 tests in total.
 
 ## System Architecture
 
-![Architecture Diagram](docs/architecture_diagram.png)
+![Architecture Diagram](doc/architecture_diagram.jpg)
 
 ## Workflow
 
-![Workflow Diagram](docs/workflow_diagram.png)
+![Workflow Diagram](doc/workflow_diagram.jpg)
 
 ## Class / Component Diagram
 
-![Class Diagram](docs/class_diagram.png)
+![Class Diagram](doc/class_diagram.jpg)
+
+## Output Screensort
+<img width="959" height="577" alt="image" src="https://github.com/user-attachments/assets/4a211ecd-bc52-4b99-9561-2df7eb20b462" />
+
 
 ## Non-Functional Requirements Addressed
 
