@@ -1,14 +1,3 @@
-"""
-cli.py
-------
-Functional Module 3 (part B): Interactive CLI
-
-Thin presentation layer: parses user input, calls into the
-recommendation engine / analytics module, and formats output.
-Contains no ML logic itself -- this separation is what lets
-recommender.py and analytics.py be unit-tested without a terminal.
-"""
-
 from src.data_loader import load_movies, DataLoadError
 from src.preprocessor import vectorize
 from src.recommender import RecommendationEngine, MovieNotFoundError
