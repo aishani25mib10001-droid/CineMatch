@@ -1,13 +1,3 @@
-"""
-analytics.py
-------------
-Functional Module 3 (part A): Reporting & Analytics
-
-Provides dataset-level insights (genre distribution, catalogue size,
-average similarity spread) independent of any single recommendation
-request. Separating "reporting" from "interaction" (cli.py) keeps
-the CLI module thin and each module independently testable.
-"""
 
 import pandas as pd
 from collections import Counter
