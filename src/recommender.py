@@ -1,15 +1,3 @@
-"""
-recommender.py
----------------
-Functional Module 2: Recommendation Engine (the ML core)
-
-Implements content-based filtering: every movie is represented as a
-TF-IDF vector (see preprocessor.py), and recommending "similar"
-movies is framed as a nearest-neighbour search in that vector space
-using cosine similarity. This is the classical ML technique this
-project demonstrates -- no black-box external API is used.
-"""
-
 import difflib
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
