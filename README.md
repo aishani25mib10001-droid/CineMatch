@@ -123,7 +123,11 @@ and the analytics module — 9 tests in total.
 ![Class Diagram](doc/class_diagram.jpg)
 
 ## Output Screensort
-<img width="959" height="577" alt="image" src="https://github.com/user-attachments/assets/4a211ecd-bc52-4b99-9561-2df7eb20b462" />
+<img width="953" height="596" alt="image" src="https://github.com/user-attachments/assets/1403dbb4-87f3-4d81-8676-d30cd93a54c1" />
+<img width="959" height="597" alt="image" src="https://github.com/user-attachments/assets/fc2022c1-0d53-41f6-8c88-d1cff2d823dd" />
+<img width="959" height="599" alt="image" src="https://github.com/user-attachments/assets/b5f7fa35-bec1-4987-b466-be8f619cc06f" />
+
+
 
 
 ## Non-Functional Requirements Addressed
