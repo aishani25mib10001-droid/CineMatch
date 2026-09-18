@@ -1,14 +1,3 @@
-"""
-data_loader.py
----------------
-Functional Module 1: Data Ingestion & Preprocessing (part A)
-
-Responsible only for reading the raw movie catalogue off disk and
-validating that it has the shape the rest of the system expects.
-Keeping I/O separate from cleaning/vectorization (preprocessor.py)
-keeps each file single-purpose -> Maintainability.
-"""
-
 import os
 import pandas as pd
 
